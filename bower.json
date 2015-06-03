@@ -1,10 +1,10 @@
 {
-  "name": "EtsyParsing",
+  "name": "EParse",
   "version": "0.1",
   "authors": [
     "Robbi Kenney <robbikenney@gmail.com>"
   ],
-  "description": "Javascript practice",
+  "description": "Parse JSON",
   "main": "index.html",
   "moduleType": [
     "es6"

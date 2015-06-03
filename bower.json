@@ -1,0 +1,27 @@
+{
+  "name": "EtsyParsing",
+  "version": "0.1",
+  "authors": [
+    "Robbi Kenney <robbikenney@gmail.com>"
+  ],
+  "description": "Javascript practice",
+  "main": "index.html",
+  "moduleType": [
+    "es6"
+  ],
+  "keywords": [
+    "shopping",
+    "data"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "underscore": "~1.8.3"
+  }
+}
